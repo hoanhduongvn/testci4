@@ -6,6 +6,6 @@ class Test extends BaseController
 {
     public function index()
     {
-        echo "CodeIgniter chạy OK - CUC CU CU";
+        echo "CodeIgniter chạy OK rồi nhé!";
     }
 }
